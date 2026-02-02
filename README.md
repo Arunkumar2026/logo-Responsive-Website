@@ -1,0 +1,1 @@
+This is a reposnsive website, developed using HTML and CSS.
